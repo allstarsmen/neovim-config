@@ -2,6 +2,7 @@
  require('hardline').setup {
      theme = 'gruvbox'
  }
+require('toggleterm').setup {}
  
  local opt = vim.opt
  
